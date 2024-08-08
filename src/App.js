@@ -38,7 +38,7 @@ function App() {
         <CiMail size={35}/>
         
       </Icons>
-      <Icons  className="px-5 text-white">
+      <Icons  className="px-5 text-white ">
         <BsTelephone size={30}/>
         
       </Icons>
