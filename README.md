@@ -10,9 +10,7 @@ built with ReactJS and Tailwind CSS.Immersive UI, professional look.
 
 
 
-# My Project Title
 
-I created this project to [briefly explain purpose]. It solves [specific problem] by [your solution approach].
 
 ## Key Focus Areas
 - Primary goal I achieved: [main accomplishment]
