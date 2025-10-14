@@ -12,15 +12,13 @@ built with ReactJS and Tailwind CSS.Immersive UI, professional look.
 
 
 
-## Key Focus Areas
-- Primary goal I achieved: [main accomplishment]
-- Unique value I provide: [key differentiator]
+
 
 
 
 ## Key Focus Areas
 - **Primary Goal:** Immersive ReactJS UI
-- **Unique Value:** This project provides unique value by: Enhancing my Front-End Designing Skills
+- **Unique Value:** This project provides unique value by Enhancing my Front-End Designing Skills
 
 
 
